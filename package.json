@@ -1,7 +1,10 @@
 {
   "name": "boleto-validator-ts",
   "keywords": ["validacao", "boleto-brasileiro", "boleto", "modulo10", "modulo11"],
-  "version": "1.0.1",
+  "version": "1.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devDudu-21/boleto-validator-ts.git"},
   "description": "Um validador de boletos bancários e de arrecadação, totalmente reescrito em TypeScript. Suporta validação de código de barras e linha digitável, com ou sem formatação. Este pacote oferece maior segurança e flexibilidade ao desenvolver soluções que envolvem a validação de boletos no Brasil, usando tipos rigorosos do TypeScript para garantir melhor desempenho e prevenção de erros.",
   "scripts": {
     "build": "tsc",
